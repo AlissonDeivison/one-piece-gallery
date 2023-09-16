@@ -1,0 +1,102 @@
+
+[
+    {
+      "titulo": "Luffy",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-1.png",
+      "id": "1",
+      "tag": "Luffy"
+    },
+    {
+      "titulo": "Luffy Gear 2",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-2.png",
+      "id": "2",
+      "tag": "Luffy"
+    },
+    {
+      "titulo": "Luffy Gear 3",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-3.png",
+      "id": "3",
+      "tag": "Luffy"
+    },
+    {
+      "titulo": "Luffy Gear 5",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-4.png",
+      "id": "4",
+      "tag": "Luffy"
+    },
+    {
+      "titulo": "Zoro",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-5.png",
+      "id": "5",
+      "tag": "Zoro"
+    },
+    {
+      "titulo": "Zoro",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-6.png",
+      "id": "6",
+      "tag": "Zoro"
+    },
+    {
+      "titulo": "Nami",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-7.png",
+      "id": "7",
+      "tag": "Nami"
+    },
+    {
+      "titulo": "Usopp",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-8.png",
+      "id": "8",
+      "tag": "Usopp"
+    },
+    {
+      "titulo": "Sanji",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-9.png",
+      "id": "9",
+      "tag": "Sanji"
+    },
+    {
+      "titulo": "Chopper",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-10.png",
+      "id": "10",
+      "tag": "Chopper"
+    },
+    {
+      "titulo": "Robin",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-11.png",
+      "id": "11",
+      "tag": "Robin"
+    },
+    {
+      "titulo": "Franky",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-12.png",
+      "id": "12",
+      "tag": "Franky"
+    },
+    {
+      "titulo": "Brook",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-13.png",
+      "id": "12",
+      "tag": "Brook"
+    },
+    {
+      "titulo": "Jinbe",
+      "creditos": "Imagem da internet",
+      "imagem": "/assets/imagens/galeria/foto-14.png",
+      "id": "12",
+      "tag": "Jinbe"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+@import "../../styles/variaveis";
+
+.footer {
+  background-color: $azul-rodape;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0px -2px 30px rgba($color: #000000, $alpha: 0.5);
+  box-sizing: border-box;
+
+
+
+  &__div {
+    display: block;
+    padding: 0 1.5rem 0 1.9rem;
+  }
+
+  &__img {
+    box-sizing: border-box;
+    margin-right: 2rem;
+  }
+
+  &__p {
+    font-family: $fonte-normal;
+    color: $cor-do-texto;
+    height: 0.5rem;
+  }
+}
